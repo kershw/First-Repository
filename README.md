@@ -1,2 +1,3 @@
-# Procedural-Programming-L1-Practice
-Lecture 1 Procedural Programming Practise Repository
+# First repository
+First repository created in procedural programming yippee!!!
+
